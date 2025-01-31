@@ -53,7 +53,7 @@ This project implements two deep learning models:
 🖐 ASL Hand Sign Recognition Dataset  
 📌 Dataset Source: Kaggle ASL Alphabet Dataset  
 📌 Classes: 29 (A-Z, Space, Nothing, Delete)  
-📌 Preprocessing:  
+📌 Preprocessing: 
 - Resized images to 128x128  
 - Applied data augmentation (flipping, rotation, color jittering)
 - Normalised images using dataset-specific **mean and std**
@@ -62,7 +62,7 @@ This project implements two deep learning models:
 ## 🗣 Intent Classification Dataset (SNIPS)  
 📌 Dataset Source: SNIPS Natural Language Dataset  
 📌 Classes: 7 intents (Weather, Music, Restaurant, etc.)  
-📌 Preprocessing:  
+📌 Preprocessing:
 - Tokenization using NLTK  
 - Embedded text with word embeddings  
 - Used LSTM-based RNN for intent classification  
@@ -88,13 +88,13 @@ This project implements two deep learning models:
 📌 Learning Rate Scheduler: StepLR (step_size=5, gamma=0.1)  
 📌 Early Stopping: Implemented to stop training when validation loss stops improving  
 
-✅ CNN Evaluation
-📌 Evaluated using Accuracy, Precision, Recall, F1-score
-📌 Used Confusion Matrix for error analysis
+✅ CNN Evaluation  
+📌 Evaluated using Accuracy, Precision, Recall, F1-score  
+📌 Used Confusion Matrix for error analysis  
 
-✅ RNN Training
-📌 Tokenized dataset and trained using LSTM-based RNN
-📌 Used CrossEntropyLoss and Adam Optimizer
+✅ RNN Training  
+📌 Tokenized dataset and trained using LSTM-based RNN  
+📌 Used CrossEntropyLoss and Adam Optimizer  
 
 
 ## 🏆 Results & Performance  
