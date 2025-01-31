@@ -31,9 +31,9 @@ This project implements two deep learning models:
 ## 👥 Team Members & Roles  
 | Name  | Contribution | ID |  
 |---|-----|----|  
-| 🧑‍💻 Cheryl |  |  |  
-| 🧑‍💻 Hendrik |  |  |  
-| 🧑‍💻 ZhiHeng |  |  |  
+| 🧑‍💻 Cheryl | CNN:  Evaluation & Confusion Matrix  RNN:  Design & Training of Model | S102 |  
+| 🧑‍💻 Hendrik | CNN:  Design & Training of Model  RNN:  Imeplement Preprocessing Techniques | S102 |  
+| 🧑‍💻 ZhiHeng | CNN:  Implement Preprocessing Techniques & Improve Model Performance  RNN:  Improve Model Performance, Evaluation & Confusion Matrix | S102 |  
 
 
 ## 📂 Project Structure  
