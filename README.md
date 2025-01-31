@@ -29,7 +29,7 @@ This project implements two deep learning models:
 
 
 ## 👥 Team Members & Roles  
-| Name  | Contribution**(CNN)** | Contribution**(RNN)** | ID |  
+| Name  | Contribution (CNN) | Contribution (RNN) | ID |  
 |---|-----|-----|----|  
 | 🧑‍💻 Cheryl | Evaluation & Confusion Matrix | Design & Training of Model | S102 |  
 | 🧑‍💻 Hendrik | Design & Training of Model | Imeplement Preprocessing Techniques | S102 |  
