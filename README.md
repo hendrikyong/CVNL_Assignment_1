@@ -5,7 +5,7 @@
 2️⃣ **RNN (Recurrent Neural Network)** - Used for emotion & intent classification with the **SNIPS Dataset**.  
 
 ## 🔹 About the Project  
-🔹 **Project Name:** AI for Assistive Applications
+🔹 **Project Name:** AI for Assistive Applications  
 🔹 **Requirement 2.1:** ASL Hand Sign Recognition using CNN  
 🔹 **Requirement 2.2:** Emotion & Intent Classification using RNN on SNIPS Dataset  
 🔹 **Framework:** PyTorch  
@@ -13,9 +13,9 @@
 ## 👥 Team Members & Roles  
 | Name  | Contribution (CNN) | Contribution (RNN) | ID |  
 |---|-----|-----|----|  
-| 🧑‍💻 Cheryl | Evaluation & Confusion Matrix | Design & Training of Model | S102 |  
-| 🧑‍💻 Hendrik | Design & Training of Model, Implement preprocessing techniques | Imeplement Preprocessing Techniques | S10241624J |  
-| 🧑‍💻 ZhiHeng | Implement mean and std function for calculation & Improve Model Performance | Improve Model Performance, Evaluation & Confusion Matrix | S102 |  
+| 🧑‍💻 Cheryl | Evaluation | Design & Training of Model | S102 |  
+| 🧑‍💻 Hendrik | Design & Training of Model, Implement Appropriate Preprocessing Techniques | Implement Appropriate Preprocessing Techniques | S10241624J |  
+| 🧑‍💻 ZhiHeng | Implement mean and std function for calculation & Improve Model Performance | Improve Model Performance & Evaluation | S102 |  
 
 ## ⚙️ Installation & Setup  
 
