@@ -32,8 +32,8 @@ This project implements two deep learning models:
 | Name  | Contribution (CNN) | Contribution (RNN) | ID |  
 |---|-----|-----|----|  
 | 🧑‍💻 Cheryl | Evaluation & Confusion Matrix | Design & Training of Model | S102 |  
-| 🧑‍💻 Hendrik | Design & Training of Model | Imeplement Preprocessing Techniques | S102 |  
-| 🧑‍💻 ZhiHeng | Implement Preprocessing Techniques & Improve Model Performance | Improve Model Performance, Evaluation & Confusion Matrix | S102 |  
+| 🧑‍💻 Hendrik | Design & Training of Model, Implement preprocessing techniques | Imeplement Preprocessing Techniques | S10241624J |  
+| 🧑‍💻 ZhiHeng | Implement meand and std function for calculation & Improve Model Performance | Improve Model Performance, Evaluation & Confusion Matrix | S102 |  
 
 
 ## 📂 Project Structure  
