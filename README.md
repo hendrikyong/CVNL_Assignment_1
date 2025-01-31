@@ -5,7 +5,6 @@ This project implements two deep learning models:
 1️⃣ **CNN (Convolutional Neural Network)** - Used for hand sign classification using the **ASL Alphabet Dataset**.  
 2️⃣ **RNN (Recurrent Neural Network)** - Used for intent classification with the **SNIPS Dataset**.  
 
----
 
 ## 📜 Table of Contents  
 - 🔹 About the Project  
@@ -19,7 +18,6 @@ This project implements two deep learning models:
 - 🏆 Results & Performance  
 - 🔗 References  
 
----
 
 ## 🔹 About the Project  
 🔹 **Project Name:** ASL Hand Sign & Intent Classification  
@@ -29,7 +27,6 @@ This project implements two deep learning models:
 🔹 **Techniques Used:** Data Augmentation, CNN, RNN, Hyperparameter Tuning, Early Stopping  
 🔹 **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score, Confusion Matrix  
 
----
 
 ## 👥 Team Members & Roles  
 | Name  | Contribution | ID |  
@@ -38,7 +35,6 @@ This project implements two deep learning models:
 | 🧑‍💻 Hendrik |  |  |  
 | 🧑‍💻 ZhiHeng |  |  |  
 
----
 
 ## 📂 Project Structure  
 📂 ASL-Intent-Classification
@@ -49,11 +45,9 @@ This project implements two deep learning models:
 │── 📄 CNN.ipynb            # CNN Training script  
 │── 📄 RNN.ipynb            # RNN Training script  
 
----
 
 ## ⚙️ Installation & Setup  
 
----
 
 ## 📊 Dataset Information  
 🖐 ASL Hand Sign Recognition Dataset  
@@ -64,7 +58,6 @@ This project implements two deep learning models:
 - Applied data augmentation (flipping, rotation, color jittering)
 - Normalised images using dataset-specific **mean and std**
 
----
 
 ## 🗣 Intent Classification Dataset (SNIPS)  
 📌 Dataset Source: SNIPS Natural Language Dataset  
@@ -74,7 +67,6 @@ This project implements two deep learning models:
 - Embedded text with word embeddings  
 - Used LSTM-based RNN for intent classification  
 
----
 
 ## 🧠 CNN Model (Hand Sign Recognition)  
 ✔ 3 Convolutional Layers (with ReLU activation)  
@@ -82,14 +74,12 @@ This project implements two deep learning models:
 ✔ Dropout (0.6) to prevent overfitting  
 ✔ Fully connected layers for classification  
 
----
 
 ## 🧠 RNN Model (Intent Classification)  
 ✔ Used LSTM (Long Short-Term Memory) for sequence modeling  
 ✔ Embedding layer applied for text feature extraction  
 ✔ Fully connected layers for classification  
 
----
 
 ## 📈 Training & Evaluation  
 📌 Optimizer: Adam (lr=1e-4)  
@@ -97,7 +87,6 @@ This project implements two deep learning models:
 📌 Regularization: Dropout (0.6)  
 📌 Learning Rate Scheduler: StepLR (step_size=5, gamma=0.1)  
 📌 Early Stopping: Implemented to stop training when validation loss stops improving  
-
 
 ✅ CNN Evaluation
 📌 Evaluated using Accuracy, Precision, Recall, F1-score
@@ -107,7 +96,6 @@ This project implements two deep learning models:
 📌 Tokenized dataset and trained using LSTM-based RNN
 📌 Used CrossEntropyLoss and Adam Optimizer
 
----
 
 ## 🏆 Results & Performance  
 CNN Results (Hand Sign Recognition)  
@@ -122,7 +110,6 @@ RNN Results (Intent Classification)
 - Confusion Matrix:  
 - Loss Graph:  
 
----
 
 ## 🔗 References  
 - PyTorch Documentation  
