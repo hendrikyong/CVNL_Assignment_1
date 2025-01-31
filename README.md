@@ -17,9 +17,6 @@
 | 🧑‍💻 Hendrik | Design & Training of Model, Implement Appropriate Preprocessing Techniques | Implement Appropriate Preprocessing Techniques | S10241624J |  
 | 🧑‍💻 ZhiHeng | Implement mean and std function for calculation & Improve Model Performance | Improve Model Performance & Evaluation | S102 |  
 
-## ⚙️ Installation & Setup  
-
-
 ## 📊 Dataset Information  
 🖐 **ASL Hand Sign Recognition Dataset**  
 📌 **Dataset Source:** [Kaggle ASL Alphabet Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)  
@@ -39,7 +36,7 @@
 ✔ Dropout (0.6) to prevent overfitting  
 ✔ Fully connected layers for classification  
 
-## 🧠 RNN Model (Emotion & Intent Classification)  
+## 🗣 RNN Model (Emotion & Intent Classification)  
 ✔ Used LSTM (Long Short-Term Memory) for sequence modeling  
 ✔ Embedding layer applied for text feature extraction  
 ✔ Fully connected layers for classification  
