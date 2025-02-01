@@ -13,7 +13,7 @@
 ## 👥 Team Members & Roles  
 | Name  | Contribution (CNN) | Contribution (RNN) | ID |  
 |---|-----|-----|----|  
-| 🧑‍💻 Cheryl | Evaluation | Design & Training of Model | S102 |  
+| 🧑‍💻 Cheryl | Evaluation using metrics like accuracy, precision, recall, F1-score and confusion matrix | Design & Training of Model | S102 |  
 | 🧑‍💻 Hendrik | Design & Training of Model, Implement Appropriate Preprocessing Techniques | Implement Appropriate Preprocessing Techniques | S10241624J |  
 | 🧑‍💻 ZhiHeng | Implement mean and std function for calculation & Improve Model Performance | Improve Model Performance & Evaluation | S102 |  
 
