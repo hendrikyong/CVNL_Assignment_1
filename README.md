@@ -23,7 +23,7 @@
 📌 **Classes:** 29 (A-Z, Space, Nothing, Delete)  
 
 🗣 Emotion & Intent Classification Dataset (SNIPS)  
-📌 Dataset Source: SNIPS Natural Language Dataset  
+📌 Dataset Source: [SNIPS Natural Language Dataset](https://github.com/sonos/nlu-benchmark)    
 📌 Classes: 7 intents (Weather, Music, Restaurant, etc.)  
 📌 Preprocessing:
 - Tokenization using NLTK  
