@@ -25,15 +25,11 @@
 🗣 Emotion & Intent Classification Dataset (SNIPS)  
 📌 Dataset Source: [SNIPS Natural Language Dataset](https://github.com/sonos/nlu-benchmark)    
 📌 Classes: 7 intents (Weather, Music, Restaurant, etc.)  
-📌 Preprocessing:
-- Tokenization using NLTK  
-- Embedded text with word embeddings  
-- Used LSTM-based RNN for intent classification  
 
 ## 🧠 CNN Model (Hand Sign Recognition)  
 ✔ 3 Convolutional Layers (with ReLU activation)  
 ✔ Max-Pooling Layers after each convolution  
-✔ Dropout (0.6) to prevent overfitting  
+✔ Dropout to prevent overfitting  
 ✔ Fully connected layers for classification  
 
 ## 🗣 RNN Model (Emotion & Intent Classification)  
