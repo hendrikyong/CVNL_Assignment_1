@@ -3,7 +3,7 @@
 ## 📌 Project Overview:
 1. **CNN (Convolutional Neural Network)** - Used for hand sign classification using the **ASL Alphabet Dataset**.  
 2. **RNN (Recurrent Neural Network)** - Used for intent classification with the **SNIPS Dataset**.
-3. **RNN (Recurrent Neural Network)** - Used for emotion & intent classification with the **Emotion Dataset**
+3. **RNN (Recurrent Neural Network)** - Used for intent classification with the **Emotion Dataset**
 
 ## 🔹 About the Project  
 🔹 **Project Name:** AI for Assistive Applications  
